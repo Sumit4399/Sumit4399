@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Sumit Anand.
 - 👀 I’m interested in Web Development (MERN Stack) and Blockchain Development.
-- 🌱 I’m currently learning Hands-On Cloud Training from Google Cloud.
+- 🌱 I’m currently learning Data Structures and Algorithm.
 - 💞️ I’m looking to collaborate on different open source platforms.
 - 💬 Ask me about how I got into programming and my interests!
 - 📫 Reach me at <sumitanand.info@gmail.com>
