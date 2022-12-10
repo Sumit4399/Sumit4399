@@ -33,6 +33,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit4399)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://quine.sh/profile/Sumit4399"><img src="https://stats.quine.sh/Sumit4399/github" alt="Sumit4399's GitHub stats" width="840px"></a>
+
 <h1 align="center">
     Feel free to refer or fork the repos and be sure to star them!
 </h1>
